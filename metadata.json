@@ -1,0 +1,6 @@
+{
+  "name": "S&G Garden Rooms",
+  "description": "Premium modern garden rooms, offices, garden bars, log cabins, and custom garden buildings in Peterlee, UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
